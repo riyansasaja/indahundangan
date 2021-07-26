@@ -1,0 +1,59 @@
+/* font-family: 'Dancing Script', cursive;
+font-family: 'Della Respira', serif;
+font-family: 'Didact Gothic', sans-serif; */
+
+.dancing-50 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+}
+.dancing-36 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 36px;
+}
+.gothik-18 {
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 18px;
+}
+.gothik-12 {
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 12px;
+}
+.respira-24 {
+    font-family: 'Della Respira', serif;
+    font-size: 24px;
+}
+.respira-18 {
+    font-family: 'Della Respira', serif;
+    font-size: 18px;
+}
+.respira-14 {
+    font-family: 'Della Respira', serif;
+    font-size: 14px;
+}
+.respira-12 {
+    font-family: 'Della Respira', serif;
+    font-size: 12px;
+}
+
+.warna-satu {
+    color: #147B8F;
+}
+.warna-dua {
+    color: #305F76;
+}
+.warna-tiga {
+    color: #628597;
+}
+.bg-satu {
+    background-color: #147B8F;
+}
+.bg-dua {
+    background-color: #305F76;
+}
+.bg-tiga {
+    background-color: #628597;
+}
+.bg-utama {
+    background: url('img/bg-utama.png');
+    background-repeat: no-repeat;
+}
